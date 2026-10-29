@@ -1,0 +1,11 @@
+{
+  "packageName": "com.xuper.wiwyxuper",
+  "versionCode": 43518,
+  "versionName": "4.34.12",
+  "minSdk": 24,
+  "url": "https://wiwyxuper.pages.dev/releases/wiwyxuper-43518.apk",
+  "sha256": "f53dc0c234f0a5be3ce1380ac8caf14555cd51e695e7be088e2442bd61a5a7b8",
+  "size": 43712628,
+  "notes": "Mejora el inicio de los canales añadidos y mantiene su precarga al abrir la app.",
+  "apkMinSdk": 22
+}
