@@ -1,11 +1,15 @@
 {
-  "packageName": "com.xuper.wiwyxuper",
-  "versionCode": 43535,
+  "package": "com.xuper.wiwyxuper",
+  "version": 43535,
+  "code": 43535,
+  "name": "4.34.18",
   "versionName": "4.34.18",
   "minSdk": 24,
   "url": "https://github.com/alexisll1997/Alexia-TV/releases/download/v4.34.18/WiwyXuper_v4.34.18.43535.apk",
-  "sha256": "f53dc0c234f0a5be3ce1380ac8caf14555cd51e695e7be08ac8caf14555cd51e695e7be08",
+  "sha256": "F53DC0C234F0A5BE3CE1380AC8CAF14555CD51E695E7BE08AC8CAF14555CD51E695E7BE08",
   "size": 44145000,
+  "desc": "Mejora el inicio de los canales añadidos y mantiene la estabilidad.",
+  "changelog": "Mejora el inicio de los canales añadidos y mantiene la estabilidad.",
   "notes": "Mejora el inicio de los canales añadidos y mantiene la estabilidad.",
   "apkMinSdk": 22
 }
