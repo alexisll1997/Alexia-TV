@@ -1,15 +1,10 @@
 {
-  "package": "com.xuper.wiwyxuper",
-  "version": 43662,
-  "code": 43662,
-  "name": "4.35.45",
-  "versionName": "4.35.45",
+  "packageName": "com.xuper.alexia",
+  "versionCode": 43775,
+  "versionName": "4.35.2",
   "minSdk": 22,
-  "url": "https://github.com/alexisll1997/Alexia-TV/releases/download/v4.35.45/WiwyXuper_v4.35.45.43662._sign.apk",
-  "sha256": "8021CEC897468ED6BA56A2DF6641AA7E67CB9DBAC60BC8D2EB8D802BBCEB0ECC",
-  "size": 46695398,
-  "desc": "Mejora el inicio de los canales añadidos y mantiene la estabilidad.",
-  "changelog": "Mejora el inicio de los canales añadidos y mantiene la estabilidad.",
-  "notes": "Mejora el inicio de los canales añadidos y mantiene la estabilidad.",
-  "apkMinSdk": 22
+"url": "https://raw.githubusercontent.com/alexisll1997/Alexia-TV/main/releases/43775/Alexia.TV.apk" 
+  "size": 65477574,
+  "sha256": "f6053d7623f8781814e11e64a888e87c811a133e5ec55afca385a27371002d1e",
+  "notes": "Mejora el inicio de los canales añadidos y mantiene la estabilidad."
 }
